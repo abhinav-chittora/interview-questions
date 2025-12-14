@@ -32,7 +32,7 @@ A comprehensive collection of technical interview questions and answers for DevO
 
 - **[CKA-1.pdf](./CKA-1.pdf)** - Certified Kubernetes Administrator (CKA) exam preparation
 
-### Programming & 
+### Programming & Microservices
 
 - **[Programming-1.md](./Programming-1.md)** - General programming concepts and coding interview questions
 - **[Java-Microservice-1.pdf](./Java-Microservice-1.pdf)** - Java microservices architecture and implementation
